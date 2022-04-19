@@ -1,9 +1,15 @@
+<div align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg" width="600" height="300"/>
+</div>
+
 # Hi, I'm Dan 👋
 
 <div id="badges">
   <a href="www.linkedin.com/in/dan-j-martin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <br>
   
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
