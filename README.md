@@ -1,5 +1,10 @@
 # Hi, I'm Dan 👋
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 ## About me
 After 4 years working in an IT support role, starting as a Junior Technician and working my way up to become a Network Manager for a secondary school, I started exploring new career options. I wanted to have a career where I had opportunities to be creative, learn new skills, work collaboratively, and to have control over my time and location. 
 
